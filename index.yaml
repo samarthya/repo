@@ -3,12 +3,12 @@ entries:
   hellow:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-02-15T13:07:00.130605+05:30"
+    created: "2022-02-16T12:51:55.788483+05:30"
     description: Spinnaker Hellow helm chart
-    digest: 3e583d1283eb1834940a110ccdcdfc5358528519a71d446ca3dc2317d1c57e01
+    digest: 22b2a5d927901bbe6746ecd8afcb9f4eae9be1a0427f80c248ab0e9602f2c3a8
     name: hellow
     type: application
     urls:
     - https://samarthya.github.io/repo/hellow-2.0.0.tgz
     version: 2.0.0
-generated: "2022-02-15T13:07:00.129523+05:30"
+generated: "2022-02-16T12:51:55.787417+05:30"
